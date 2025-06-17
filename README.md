@@ -1,4 +1,4 @@
-
+https://mete0roz.github.io/Gerador-Curriculo/
 
 # React + Vite
 
