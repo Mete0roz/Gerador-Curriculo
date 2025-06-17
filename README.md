@@ -1,14 +1,4 @@
 
-Para acessar a pré visualização do projeto inacabado acessar o link https://mete0roz.github.io/Curriculo-App/
-
-
-
-
-
-
-
-
-
 
 # React + Vite
 
